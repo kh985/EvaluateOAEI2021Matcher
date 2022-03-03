@@ -1,0 +1,5 @@
+Track,Test Case,Matcher,Type,Precision (P),Recall (R),Residual Recall (R+),F1,"# of TP","# of FP","# of FN","# of Correspondences",Time,Time (HH:MM:SS)
+knowledgegraph,nell-dbpedia,Baseline,ALL,1.0,0.6046511627906976,0.0,0.7536231884057971,78,0,51,78,37101134382,00:00:37
+knowledgegraph,nell-dbpedia,Baseline,CLASSES,1.0,0.6046511627906976,0.0,0.7536231884057971,78,0,51,78,-,-
+knowledgegraph,nell-dbpedia,Baseline,PROPERTIES,0.0,0.0,0.0,0.0,0,0,0,0,-,-
+knowledgegraph,nell-dbpedia,Baseline,INSTANCES,0.0,0.0,0.0,0.0,0,0,0,0,-,-

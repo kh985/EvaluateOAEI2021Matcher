@@ -1,0 +1,5 @@
+Track,Matcher,Type,Macro Precision (P),Macro Recall (R),Residual Macro Recall (R+),Macro F1,Micro Precision (P),Micro Recall (R),Residual Micro Recall (R+),Micro F1,"# of TP","# of Residual TP","# of FP","# of FN","# of Correspondences",Total Runtime,Total Runtime(HH:MM:SS)
+knowledgegraph,Baseline,ALL,1.0,0.6046511627906976,0.0,0.7536231884057971,1.0,0.6046511627906976,0.0,0.7536231884057971,78,0,0,51,78,37101134382,00:00:37
+knowledgegraph,Baseline,CLASSES,1.0,0.6046511627906976,0.0,0.7536231884057971,1.0,0.6046511627906976,0.0,0.7536231884057971,78,0,0,51,78,-,-
+knowledgegraph,Baseline,PROPERTIES,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,-,-
+knowledgegraph,Baseline,INSTANCES,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,-,-
